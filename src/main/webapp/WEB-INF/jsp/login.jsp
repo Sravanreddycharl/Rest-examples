@@ -13,13 +13,13 @@
 				<center align="center">
 					<!-- Description &nbsp; &nbsp; : &nbsp; &nbsp;
 					<button onclick="myFunction()">&nbsp;Link Todo</button> -->
-					<form action="/action_page.php">
-  Username: <input type="text" name="fname"><br>
-  Password: <input type="text" name="lname"><br>
+					<form  method="post" >
+  Username: <input type="text" name="username"><br>
+  Password: <input type="text" name="password"><br>
 
   <input type="submit" value="Submit" onClick="myFunction()" , type="create" value="Create">
 
-  <input type="submit" value="Submit" , type="create" value="Create">
+<!--   <input type="submit" value="Submit" , type="create" value="Create"> -->
 
 </form>
 				</center>
