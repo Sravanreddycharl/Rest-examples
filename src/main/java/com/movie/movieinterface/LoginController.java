@@ -7,5 +7,5 @@ public class LoginController {
 	@RequestMapping("/login")
 	public String loginMessage(){
 		return "login";
-	}
+	}//Test
 }
